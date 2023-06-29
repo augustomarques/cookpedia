@@ -1,0 +1,57 @@
+[
+  {
+    "_class": "br.com.amarques.cookpedia.domain.Recipe",
+    "name": "Greek style rice",
+    "wayOfDoing": "How to make Greek-style rice",
+    "ingredients": [
+      "3 cups of rice",
+      "1 box of raisins",
+      "5 spoons of peas",
+      "oil",
+      "6 cups of water",
+      "grated Parmesan cheese",
+      "1 spoonful of butter"
+    ]
+  },
+  {
+    "_class": "br.com.amarques.cookpedia.domain.Recipe",
+    "name": "Piamontese rice",
+    "wayOfDoing": "How to make Piamontese rice",
+    "ingredients": [
+      "2 cups of washed rice",
+      "1 tablespoon garlic",
+      "1 can of mushrooms",
+      "1 can heavy cream",
+      "1/2 tablespoon of oil",
+      "100 g mozzarella cheese"
+    ]
+  },
+  {
+    "_class": "br.com.amarques.cookpedia.domain.Recipe",
+    "name": "White Rice",
+    "wayOfDoing": "How to make White Rice",
+    "ingredients": [
+      "1 cup washed rice",
+      "1 clove of crushed garlic",
+      "olive oil",
+      "2 cups boiling water",
+      "1/4 onion, chopped"
+    ]
+  },
+  {
+    "_class": "br.com.amarques.cookpedia.domain.Recipe",
+    "name": "Bolognese Pasta",
+    "wayOfDoing": "How to make Bolognese Pasta",
+    "ingredients": [
+      "1 onion",
+      "5 chopped green olives",
+      "2 bouillon cubes",
+      "2 chopped tomatoes",
+      "500g Ground Meat",
+      "1 tablespoon of olive oil",
+      "2 cans of ready tomato sauce",
+      "1 carrot",
+      "500g Pasta"
+    ]
+  }
+]

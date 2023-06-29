@@ -1,0 +1,14 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27018
+      database: cookpedia
+      username: admin
+      password: admin
+
+de:
+  flapdoodle:
+    mongodb:
+      embedded:
+        version: 6.0.2

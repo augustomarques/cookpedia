@@ -1,0 +1,18 @@
+version: "3.8"
+services:
+  api-cookpedia:
+    image: augustomarques/cookpedia
+    container_name: cookpedia
+    build: .
+    restart: always
+    environment:
+      SPRING_PROFILES_ACTIVE: stage
+      SERVER_PORT: 8080
+    ports:
+      - "18080:8080"
+    networks:
+      - cookpedia-network
+
+networks:
+  cookpedia-network:
+    driver: bridge
